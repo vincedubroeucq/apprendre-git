@@ -1,6 +1,16 @@
 h1 {
     text-align: center
 }
+nav ul {
+    text-align: center;
+    padding: 0;
+}
 nav li {
     display: inline-block;
+    text-transform: uppercase;
+    font-size: larger;
+    margin-left: 8px;
+}
+nav li:first-of-type {
+    margin-left: 0;
 }
