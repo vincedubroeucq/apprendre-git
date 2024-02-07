@@ -1,3 +1,3 @@
 ## Apprendre Git
 
-This repo contains an example for the *Apprendre Git* article series on https://vincentdubroeucq.com
+This repo contains example code used in the *Apprendre Git* article series on https://vincentdubroeucq.com
