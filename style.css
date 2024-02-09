@@ -1,8 +1,10 @@
 h1 {
     text-align: center
 }
+header {
+    text-align: center
+}
 nav ul {
-    text-align: center;
     padding: 0;
 }
 nav li {
